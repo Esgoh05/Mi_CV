@@ -1,0 +1,201 @@
+
+.contenedor_principal{
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    background-image: linear-gradient(to right, #0c2646 0%, #204065 60%, #2a5788 100%);
+    display: flex;
+}
+
+.contenedor_izquierda{
+    padding: 0;
+    border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-right: 1.5rem;
+}
+
+.image-profile{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.contenedor_medio{
+    flex-grow: 3;
+    width: 25rem;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    margin-right: 1.5rem;
+}
+
+
+.contenedor_title{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    /*color: linear-gradient(to right, #0c2646 0%, #204065 60%, #2a5788 100%);*/
+    text-align: center;
+    color: white; 
+}
+
+.contenedor_derecha{
+    padding: 0;
+    width: 15rem;
+    height: 15rem;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.contenedor_tefono{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.datos{
+    color: white;
+}
+
+.bi-telephone{
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.bi-house{
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.bi-envelope{
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.bi-github{
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.contenedor_AboutMe{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.contenedor_aboutme{
+    display: flex;
+    background-color: white;  
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+h2{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-family: 'Times New Roman', Times, serif; 
+    white-space: nowrap;
+    font-size: 30px;
+    background: linear-gradient(to right, #0c2646 0%, #204065 60%, #2a5788 100%);
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+
+.pAboutme{
+    font-size: 25px;  
+    margin-left: 0.5rem;
+    margin-top: 1.8rem;
+    text-align: justify;
+}
+
+.contenedor_abajo{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.skills{
+    background-color: white;
+    width: 15rem;
+    height: 15rem;
+    display: flex;
+    align-content: first baseline;
+    flex-wrap: wrap; 
+}
+
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 0rem;
+    padding-top: 0;
+    margin-bottom: 1rem;
+}
+
+h4{
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 0;
+}
+
+.contenido{
+    flex-grow: 3;
+    width: 25rem;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 1.5rem;
+    flex-direction: column;
+}
+
+ol{
+    list-style-type: disc;
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pInfo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h3{
+    margin-left: 1.5rem;
+    font-family: 'Times New Roman', Times, serif; 
+    white-space: nowrap;
+    font-size: 25px;
+    margin-top: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
